@@ -1,0 +1,25 @@
+fashion - a CSS domain-specific language for Clojure
+
+Part of Projject
+http://projject.com/
+http://github.com/projject/
+monitron@gmail.com
+
+Copyright (c) Justin Streufert. All rights reserved. The use and
+distribution terms for this software are covered by the Eclipse Public
+License 1.0 (http://opensource.org/licenses/eclipse-1.0.php) which can
+be found in the file epl-v10.html at the root of this distribution.
+By using this software in any fashion, you are agreeing to be bound by
+the terms of this license.  You must not remove this notice, or any
+other, from this software.
+
+
+What is fashion?
+
+Fashion is a simple library for Compojure web application developers,
+which allows you to write your CSS in the same language as the rest of
+your app. You write your stylesheet in Clojure and fashion generates
+concise, readable CSS.
+
+Fashion was largely inspired by the popular stylesheet preprocessor
+Sass (http://sass-lang.com/).
