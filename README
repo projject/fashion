@@ -16,7 +16,7 @@ other, from this software.
 
 What is fashion?
 
-Fashion is a simple library for Compojure web application developers,
+Fashion is a simple library for Clojure web application developers,
 which allows you to write your CSS in the same language as the rest of
 your app. You write your stylesheet in Clojure and fashion generates
 concise, readable CSS.
